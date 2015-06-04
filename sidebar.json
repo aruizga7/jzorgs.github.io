@@ -1,0 +1,24 @@
+﻿{
+    "Product": [
+        "SPSS Modeler",
+        "SPSS Statistics"
+    ],
+    "Type": [
+        "Sample",
+        "Extension"
+    ],
+    "Category": [
+        "Data Source",
+        "Data Preparation",
+        "Models"
+    ],
+    "Developed-by": [
+        "IBM",
+        "BusinessPartner",
+        "Community"
+    ],
+    "Language": [
+        "Python",
+        "R"
+    ]
+}
