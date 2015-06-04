@@ -31,8 +31,6 @@
 			transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
 }
 
-.pn-search-input:focus:-ms-input-placeholder { color: transparent; }
-
 .hr-style{
 	height:5px;
 	border:none;
