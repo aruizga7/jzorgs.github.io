@@ -142,9 +142,10 @@
 	padding-left: 5px;
 }
 
-/*.leftsidebar-box #side-bar-icon{
-	padding-top: 3px;
-}*/
+.leftsidebar-box #side-bar-icon{
+	padding-left: 2px;
+	padding-right: 2px;
+}
 
 .repos-field{
 	text-align: center;
