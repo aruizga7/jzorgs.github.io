@@ -11,10 +11,6 @@
 	src: url('/fonts/Lubalin/LubalinGraphStd-Medium.otf') format('opentype');
 }
 
-.main-field{
-	margin-top: 4%;
-}
-
 #search{
 	display: block;
 	width: 20%;
