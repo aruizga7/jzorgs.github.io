@@ -97,12 +97,17 @@
 	padding: 0 10px;	
 }
 
+.main-field{
+	position: relative;
+}
+
 .leftsidebar-box{
+	position: relative;
 	float: left;
 	text-align: center;
 	background-color: #282832;
-	margin: auto 0 0 0;
-	width: 16%;
+	margin: 0 0 0 0;
+	width: 12%;
 	height: auto;
 	padding-top: 0;
 }
@@ -170,7 +175,6 @@ body
 .navbar
 {
 	height: 40px;
-	max-height: 10%;
 	background: rgb(60,60,60);
 background: -moz-linear-gradient(top, rgba(60,60,60,1) 0%, rgba(19,19,19,1) 100%);
 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(60,60,60,1)), color-stop(100%,rgba(19,19,19,1)));
