@@ -8,8 +8,8 @@
   
 	<title>IBM  Predictive Extensions @ Github</title>
   
-	<link href="./css/bootstrap.css" rel="stylesheet" type='text/css'>
-	<link href="./css/style.css" rel="stylesheet" type='text/css'>
+	<link href="./css/bootstrap.css" rel="stylesheet" type='text/css'/>
+	<link href="./css/style.css" rel="stylesheet" type='text/css'/>
 	<link id='pnext-css' href='./css/common.css' rel='stylesheet' type='text/css' media='screen' />
 	<link id='pnext-css' href='./css/ibm-style.css' rel='stylesheet' type='text/css' media='screen' />
   </head>
@@ -81,7 +81,7 @@
 		<dl class="home">
 		  <dt id="home">
 			<!--<img src="./images/home.png" style="float: left">-->
-			<a style="color:grey" target="_blank" href="https://www.baidu.com/">Home</a>
+			<a style="color:grey" target="_blank" href="https://www.baidu.com/"><i class="icon-camera-retro icon-large"></i>Home</a>
 		  </dt>
 		</dl>
 		<dl class="contribute">
@@ -180,7 +180,7 @@
 
 		  var $product_tag = $("<div>").attr("id", "repos-product").text(repo.product).appendTo($top_layer);
 		  var $developer_tag = $("<div>").addClass("repos-tag").attr("id", "repos-developer").text(repo["developed-by"]).appendTo($top_layer);
-		  $("<br>").appendTo($item);
+		  $("<hr>").appendTo($item);
 
 		  var $repos_name = $("<div>").attr("id", "repos-name").text(repo.name).appendTo($item);
 		  
