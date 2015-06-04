@@ -10,6 +10,9 @@
 	font-family: 'Lubalin-Md';
 	src: url('/fonts/Lubalin/LubalinGraphStd-Medium.otf') format('opentype');
 }
+#main-filed{
+	margin-top: 42px;	
+}
 
 #search{
 	display: block;
@@ -100,7 +103,7 @@
 	float: left;
 	background-color: #282832;
 	margin: auto 0 0 0;
-	width: 20%;
+	width: 15%;
 	height: auto;
 	padding-top: 0;
 }
