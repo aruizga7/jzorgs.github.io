@@ -31,29 +31,6 @@
 			transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
 }
 
-/* WebKit browsers */
-::-webkit-input-placeholder {
-	color: #777;
-	font-style: italic;
-}
-/* Mozilla Firefox 4 to 18 */
-:-moz-placeholder {
-	color: #777;
-	opacity: 1;
-	font-style: italic;
-}
-/* Mozilla Firefox 19+ */
-::-moz-placeholder {
-	color: #777;
-	opacity: 1;
-	font-style: italic;
-}
-/* Internet Explorer 10+ */
-:-ms-input-placeholder {
-	color: #777;
-	font-style: italic;
-}
-
 .hr-style{
 	height:5px;
 	border:none;
